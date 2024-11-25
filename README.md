@@ -24,8 +24,7 @@
     # Set your custom Tesseract OCR's path if changed
     pytesseract.pytesseract.tesseract_cmd = r'C:\your\path\to\tesseract.exe'
     ```
-
-- Ensure **Python 3** is installed, If not download it from [python.org](https://www.python.org/downloads/) and install and ensure to check the box **Add Python to PATH** during installation. Now verify the version and install dependencies:
+- Ensure **Python 3** is installed; if not, download it from [python.org](https://www.python.org/downloads/) and install it, making sure to check the '**Add Python to PATH**' option during installation. After installation, verify the version and install the required dependencies:
 
     - To check version:
       ```powershell
