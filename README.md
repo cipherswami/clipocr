@@ -25,8 +25,6 @@
     pytesseract.pytesseract.tesseract_cmd = r'C:\your\path\to\tesseract.exe'
     ```
 
-## Installation
-
 - Ensure **Python 3** is installed. If not download it from [python.org](https://www.python.org/downloads/) and install, while installing ensure you check the box to **Add Python to PATH** during installation. 
 
   - Verify the version and install dependencies:
@@ -40,7 +38,9 @@
       pip install -r requirements.txt
       ```
 
-- Now, right-click on the `install.bat` and run it as **Administrator**:
+## Installation
+
+- To install, right-click on the `install.bat` and run it as **Administrator**:
 
   - If you encounter **Windows protected your PC** popup, click on `More info` and then choose `Run anyway` (or) If you see any **Unknown publisher** popup, simply choose `Run`.
 
