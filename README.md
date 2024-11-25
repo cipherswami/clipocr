@@ -25,9 +25,7 @@
     pytesseract.pytesseract.tesseract_cmd = r'C:\your\path\to\tesseract.exe'
     ```
 
-- Ensure **Python 3** is installed. If not download it from [python.org](https://www.python.org/downloads/) and install, while installing ensure you check the box to **Add Python to PATH** during installation. 
-
-  - Verify the version and install dependencies:
+- Ensure **Python 3** is installed, If not download it from [python.org](https://www.python.org/downloads/) and install and ensure to check the box **Add Python to PATH** during installation. Now verify the version and install dependencies:
 
     - To check version:
       ```powershell
@@ -48,9 +46,9 @@
 
 - et voilà! installation is done. Now, you can safly delete the repository.
 
-- **Usage**: Use "`CTRL + ALT + C`" to automatically copy the recognisable text from clipboard images back to the clipboard.
+- **Usage**: Use "`CTRL + ALT + C`" to automatically copy the recognizable text from clipboard images back to the clipboard.
   
-**NOTE**: `Do not delete` the desktop shortcut file.
+**NOTE**: Do not delete the desktop shortcut file.
 
 ## Uninstallation
 
